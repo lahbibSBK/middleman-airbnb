@@ -18,8 +18,10 @@ $brand-danger:    $red;
 $brand-warning:   $orange;
 
 // Buttons & inputs' radius
-$border-radius-base:  2px;
-$border-radius-large: 2px;
-$border-radius-small: 2px;
+$border-radius-base:  75px;
+$border-radius-large: 15px;
+$border-radius-small: 20px;
 
 // Override other variables below!
+$dropdown-bg: $green;
+$navbar-border-radius: 10px;
